@@ -117,7 +117,7 @@ namespace Coins
             blueCoin = CreateCoin(Content.Load<Texture2D>("blueCoin"),11, 8);
             blackCoin = CreateCoin(Content.Load<Texture2D>("blackCoin"), 2, 4);
             greenCoin = CreateCoin(Content.Load<Texture2D>("greenCoin"), 3, 11);
-            violetCoin = CreateCoin(Content.Load<Texture2D>("violetCoin"), 7, 6);
+            violetCoin = CreateCoin(Content.Load<Texture2D>("violetCoin"), 7, 7);
 
             font = Content.Load<SpriteFont>("File");
         }
